@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "test-utils.h": "c",
-        "list_functions.h": "c",
-        "osmem.h": "c",
-        "stdlib.h": "c"
-    }
-}
